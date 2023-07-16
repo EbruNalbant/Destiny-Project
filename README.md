@@ -1,3 +1,14 @@
-# Destiny-Project
+# Landing Page 
+- Project that based on styling.
+- Full responsive.
 
-## 'in progress'
+### Technologies
+- HTML
+- CSS
+- JavaScript
+
+### `Deploy`
+https://landing-page-destiny.netlify.app/
+
+### `Screen`
+![](screen.gif)
